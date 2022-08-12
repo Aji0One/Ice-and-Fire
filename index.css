@@ -1,0 +1,42 @@
+body{
+    background-color:darkgrey;
+}
+#maindiv{
+    display: block;
+    text-align: center;
+}
+
+#table{
+    display: block;
+    text-align: center;
+   
+    background-color:bisque;
+    margin-top: 5px;
+}
+
+#title{
+    color:crimson;
+}
+#list{
+    border-radius: 20px;
+    color:teal;
+    padding: 10px;
+}
+
+#myInput {
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    width: 24%;
+    font-size: 16px;
+    padding:10px;
+    border: 1px solid #ddd;
+    
+    border-radius: 15px;
+    background-color:powderblue;
+    color:darkred
+  }
+
+  #subdiv{
+    display: flex;
+    justify-content: space-around;
+  }
